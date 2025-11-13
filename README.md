@@ -18,14 +18,14 @@ Each project demonstrates my ability to analyze complex data, build insights-dri
 ### **RStudio: AP Data Preparation Project**
 - **Focus:** Cleaning and analyzing Advanced Placement (AP) data for academic trends  
 - **Skills:** R programming, dplyr, ggplot2, data transformation, reproducible workflows  
-- **Link:** (Add your R project GitHub link once it’s live)
+- **Link:** ()
 
 ---
 
 ### **Python: Data Wrangling & Automation Scripts**
 - **Focus:** Automating dataset preparation and generating summary statistics  
 - **Skills:** pandas, matplotlib, Jupyter Notebook, ETL workflows  
-- **Link:** (Add your Python project GitHub link once it’s live)
+- **Link:** ()
 
 ---
 
