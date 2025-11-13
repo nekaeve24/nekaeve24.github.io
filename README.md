@@ -1,4 +1,4 @@
-# 🌐 Neka Everett — Data & Systems Analytics Portfolio
+# 🌐 Neka Everett — Data and Systems Analytics Portfolio
 
 Welcome to my professional portfolio showcasing projects in **data analytics, financial systems, and technology integration**.  
 I specialize in building Power BI dashboards, automating workflows with Python and R, and translating data into insights that drive smarter decisions across **education, fintech, and biotech** sectors.
