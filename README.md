@@ -46,6 +46,5 @@ My approach combines technical expertise with business understanding — ensurin
 ---
 
 ## 📬 Contact
-📧 [Email](mailto:neka.everett@gmail.com)  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neka-e-a3443368/)  
 🏠 [Portfolio Home](https://github.com/nekaeve24/data-portfolio)
